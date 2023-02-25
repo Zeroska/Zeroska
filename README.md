@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zeroska
-- 👀 I’m interested in Malware, Blue Team stuff, and hunting bad guys in the network
+- 👀 I’m interested in Malware, Blue Team stuff, and hunting bad guys on the network
 - 🌱 I’m currently learning everything that related to Cyber Security
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me https://www.facebook.com/Zeroska23
